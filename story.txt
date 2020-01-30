@@ -1,2 +1,10 @@
 A long time ago, in a galaxy far, far away ...
 test
+
+
+
+    Write some text in story.txt
+    Make a commit
+    Check the log again
+    Check out the master branch
+    Check the log
